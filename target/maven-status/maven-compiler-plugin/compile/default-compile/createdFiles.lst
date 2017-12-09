@@ -1,0 +1,13 @@
+simple\spring\example\model\Group.class
+simple\spring\example\model\Contact.class
+simple\spring\example\config\TestDataBean.class
+simple\spring\example\services\ContactService.class
+simple\spring\example\dao\GroupDAO.class
+simple\spring\example\controllers\ContactController.class
+simple\spring\example\dao\ContactDAOImpl.class
+simple\spring\example\dao\GroupDAOImpl.class
+simple\spring\example\controllers\GroupController.class
+simple\spring\example\dao\ContactDAO.class
+simple\spring\example\services\ContactServiceImpl.class
+simple\spring\example\config\AppConfig.class
+simple\spring\example\config\WebInitializer.class
